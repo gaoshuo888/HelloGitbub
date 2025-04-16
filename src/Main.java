@@ -11,12 +11,7 @@ public class Main {
         int c = a + b;
         System.out.println("The sum of a and b is: " + c);
         // 按 Shift+F10 或点击间距中的绿色箭头按钮以运行脚本。
-        for (int i = 1; i <= 5; i++) {
 
-            // 按 Shift+F9 开始调试代码。我们已为您设置了一个断点，
-            // 但您始终可以通过按 Ctrl+F8 添加更多断点。
-            System.out.println("i = " + i);
-        }
         if(a > b) {
             System.out.println("a is greater than b");
         } else if (a < b) {
