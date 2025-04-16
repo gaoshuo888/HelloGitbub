@@ -6,6 +6,10 @@ public class Main {
         // 可查看 IntelliJ IDEA 对于如何修正该问题的建议。
         System.out.printf("Hello and welcome!");
         System.out.println("Hello GitHub!");
+        int a = 5;
+        int b = 10;
+        int c = a + b;
+        System.out.println("The sum of a and b is: " + c);
         // 按 Shift+F10 或点击间距中的绿色箭头按钮以运行脚本。
         for (int i = 1; i <= 5; i++) {
 
