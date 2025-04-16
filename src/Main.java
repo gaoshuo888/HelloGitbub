@@ -17,5 +17,13 @@ public class Main {
             // 但您始终可以通过按 Ctrl+F8 添加更多断点。
             System.out.println("i = " + i);
         }
+        if(a > b) {
+            System.out.println("a is greater than b");
+        } else if (a < b) {
+            System.out.println("a is less than b");
+        } else {
+            System.out.println("a is equal to b");
+        }
+
     }
 }
