@@ -5,7 +5,6 @@ public class Main {
         // 当文本光标位于高亮显示的文本处时按 Alt+Enter，
         // 可查看 IntelliJ IDEA 对于如何修正该问题的建议。
         System.out.printf("Hello and welcome!");
-        System.out.println("Hello GitHub!");
         int a = 5;
         int b = 10;
         int c = a + b;
